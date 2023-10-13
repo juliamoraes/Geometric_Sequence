@@ -1,7 +1,7 @@
 # function to determine calculation of sum of term, thresold and etc...
 def geometric(endpoints):
     sequence = [1]
-    threshold_ = int(input("Thresold number to calculate: "))
+    threshold_ = int(input("Threshold number to calculate: "))
     sumofterms = 0
 
     # while loop to calculate the geometric sequence, number of term thresold, sum of geometric sequence
